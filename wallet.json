@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "message": "Your managed wallet",
+    "data": {
+      "uuid": "5264ef5d-e7e5-48c5-8688-ec7ff14697fd",
+      "balance": 2000,
+      "userId": "e9f29db5-289d-4ed2-9482-8df3ddec1b1e",
+      "celebrityId": "ae96b353-6491-4f00-9cb5-22a123c1b230",
+      "currency": "NGN",
+      "createdAt": "2023-06-23T11:50:44.401Z"
+    }
+  }
